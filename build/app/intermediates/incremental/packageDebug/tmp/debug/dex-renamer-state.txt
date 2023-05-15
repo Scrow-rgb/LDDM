@@ -1,0 +1,4 @@
+#Sat May 13 03:17:30 BRT 2023
+base.0=C\:\\Users\\Wander\\Downloads\\Kyoto-Express-main (1)\\Kyoto-Express-main\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
